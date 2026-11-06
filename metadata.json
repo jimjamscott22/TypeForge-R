@@ -1,0 +1,8 @@
+{
+  "name": "Reactive-Typing",
+  "description": "A modern, fun typing app to practice typing. Use \"developer mode\" for code-related exercises or \"Default Mode\" for common words.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
